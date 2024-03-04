@@ -1,0 +1,13 @@
+{"email":"vasilica2000@hotmail.com","firstname":"Vasilica","lastname":"Mariana","address":"Strada Florilor nr 43 Magura Sat","friends":[]}
+Insufficient amount in account for buying premium option
+User with mirel.corneliu@yahoo.ro doesn't exist
+{"email":"mirel.corneliu@yahoo.ro","firstname":"Mirel","lastname":"Corneliu","address":"Comuna Plopana Sat Dragomiresti judetul Bacau","friends":["vasilica2000@hotmail.com"]}
+{"stocks":[],"accounts":[{"currencyName":"USD","amount":"300.00"},{"currencyName":"GBP","amount":"0.00"}]}
+{"stocks":[],"accounts":[{"currencyName":"USD","amount":"200.00"},{"currencyName":"GBP","amount":"0.00"}]}
+{"stocks":[],"accounts":[{"currencyName":"GBP","amount":"0.00"}]}
+{"stocks":[],"accounts":[{"currencyName":"USD","amount":"55.20"},{"currencyName":"GBP","amount":"80.00"}]}
+{"stocksToBuy":["GOOGL","CSCO","JPM","ABNB","MSFT","COST","T","V","NFLX","META","GOOG","NVDA","BAC","KO","TMUS","PG","ADBE","AMZN","WMT"]}
+{"stocks":[],"accounts":[{"currencyName":"USD","amount":"555.20"},{"currencyName":"GBP","amount":"80.00"}]}
+Insufficient amount in account for buying stock
+{"stocks":[],"accounts":[{"currencyName":"USD","amount":"555.20"},{"currencyName":"GBP","amount":"80.00"}]}
+{"stocks":[{"stockName":"GOOGL","amount":3}],"accounts":[{"currencyName":"USD","amount":"150.27"},{"currencyName":"GBP","amount":"80.00"}]}

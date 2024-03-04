@@ -1,0 +1,24 @@
+CREATE USER vasilica2000@hotmail.com Vasilica Mariana Strada Florilor nr 43 Magura Sat
+LIST USER vasilica2000@hotmail.com
+ADD ACCOUNT vasilica2000@hotmail.com USD
+ADD ACCOUNT vasilica2000@hotmail.com GBP
+BUY PREMIUM vasilica2000@hotmail.com
+BUY PREMIUM mirel.corneliu@yahoo.ro
+CREATE USER mirel.corneliu@yahoo.ro Mirel Corneliu Comuna Plopana Sat Dragomiresti judetul Bacau
+ADD FRIEND vasilica2000@hotmail.com mirel.corneliu@yahoo.ro
+LIST USER mirel.corneliu@yahoo.ro
+ADD ACCOUNT mirel.corneliu@yahoo.ro GBP
+ADD MONEY vasilica2000@hotmail.com USD 300
+LIST PORTFOLIO vasilica2000@hotmail.com
+BUY PREMIUM vasilica2000@hotmail.com
+LIST PORTFOLIO vasilica2000@hotmail.com
+LIST PORTFOLIO mirel.corneliu@yahoo.ro
+EXCHANGE MONEY vasilica2000@hotmail.com USD GBP 80
+LIST PORTFOLIO vasilica2000@hotmail.com
+RECOMMEND STOCKS
+ADD MONEY vasilica2000@hotmail.com USD 500
+LIST PORTFOLIO vasilica2000@hotmail.com
+BUY STOCKS vasilica2000@hotmail.com GOOGL 5
+LIST PORTFOLIO vasilica2000@hotmail.com
+BUY STOCKS vasilica2000@hotmail.com GOOGL 3
+LIST PORTFOLIO vasilica2000@hotmail.com
